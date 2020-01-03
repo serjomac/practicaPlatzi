@@ -1,4 +1,10 @@
 body{
     text-align: center;
-    color: green
+    color: green;
+    font-family: 'Courier New', Courier, monospace
+}
+
+#cabecera{
+    background-color: darkblue;
+    font-size: 23px;
 }
