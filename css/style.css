@@ -1,14 +1,12 @@
 body{
     text-align: center;
-<<<<<<< HEAD
-    color: blueviolet;
-=======
-    color: Red;
->>>>>>> cabecera
-    font-family: 'Courier New', Courier, monospace
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 #cabecera{
     background-color: darkblue;
     font-size: 23px;
+    text-align: center;
+    
 }
